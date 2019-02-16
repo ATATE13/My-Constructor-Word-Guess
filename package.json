@@ -1,0 +1,22 @@
+{
+  "name": "my-constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Command-line Word Guess game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATATE13/My-Constructor-Word-Guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATATE13/My-Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/ATATE13/My-Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
